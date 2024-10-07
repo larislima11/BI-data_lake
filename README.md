@@ -10,8 +10,16 @@ Para rodar o projeto localmente, você precisará do Python 3.8 ou superior e da
 ```bash
 pip install pandas numpy openpyxl
 
+```
 
-## Contribuição
+# Como Usar
+Após instalar as dependências, você pode rodar o script da seguinte maneira:
+
+```bash
+python gerar_dados.py
+```
+
+# Contribuição
 Se você quiser contribuir para este projeto, por favor siga estas etapas:
 
 1. Faça um fork do projeto.
