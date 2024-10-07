@@ -6,7 +6,15 @@ Este projeto tem como objetivo gerar dados fictícios de clientes, como nome, id
 
 ## Instalação
 Para rodar o projeto localmente, você precisará do Python 3.8 ou superior e das seguintes bibliotecas:
+
 ```bash
 pip install pandas numpy openpyxl
+
+# Como Usar
+Após instalar as dependências, você pode rodar o script da seguinte maneira:
+
+```bash
+python gerar_dados.py
+
 
 
