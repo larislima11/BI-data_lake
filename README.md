@@ -1,3 +1,12 @@
-# bussiness-inteligence-data_lake
+# Gerador de Dados para Data Lake
+Um script Python que gera dados simulados de clientes e salva em formatos CSV, JSON e XLSX, ideal para criação de um data lake local.
 
-Esse código Python é um exemplo de como gerar dados fictícios e salvá-los em diferentes formatos (CSV, JSON e XLSX) em um diretório chamado data_lake. Ele cria múltiplos arquivos simulando informações de clientes, como nome, cidade, idade e valor de compra
+## Descrição
+Este projeto tem como objetivo gerar dados fictícios de clientes, como nome, idade, cidade e valor de compra, e salvá-los em um data lake local nos formatos CSV, JSON e XLSX. Isso pode ser útil para simulações de data lakes, testes de pipelines de ETL e manipulação de dados para fins de aprendizado.
+
+## Instalação
+Para rodar o projeto localmente, você precisará do Python 3.8 ou superior e das seguintes bibliotecas:
+```bash
+pip install pandas numpy openpyxl
+
+
