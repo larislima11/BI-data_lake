@@ -18,6 +18,10 @@ Após instalar as dependências, você pode rodar o script da seguinte maneira:
 ```bash
 python gerar_dados.py
 ```
+## Execução no Google Colab
+
+Você pode executar este projeto diretamente no Google Colab clicando no link abaixo:
+(https://colab.research.google.com/drive/1lay4SM6ISS0jIKug6EHmnXwhWC8nw5Hr?usp=sharing)
 
 # Contribuição
 Se você quiser contribuir para este projeto, por favor siga estas etapas:
