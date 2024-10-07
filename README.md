@@ -13,7 +13,6 @@ pip install pandas numpy openpyxl
 # Como Usar
 Após instalar as dependências, você pode rodar o script da seguinte maneira:
 
-```bash
 python gerar_dados.py
 
 
